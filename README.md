@@ -1,5 +1,7 @@
 # 🧠 Job Hacker — Autonomous AI Career Copilot
 
+Access Agent Here: https://chatgpt.com/g/g-6812ac4a5a608191abdb3a5088b768fc-job-hacker
+
 **Job Hacker** is a fully autonomous AI-powered job search agent designed to streamline and optimize your job application process across industries, geographies, and seniority levels. From intelligent job discovery to generating tailored applications and interview prep, Job Hacker makes your next career move faster, smarter, and more targeted.
 
 ---
