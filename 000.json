@@ -1,0 +1,381 @@
+{
+  "agent_name": "Apollo-7",
+  "user": {
+    "full_name": "Lloyd Marsh",
+    "contact_email": "lloyd.marsh@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/lloydmarsh",
+    "location_preference": "Calgary, AB or Remote",
+    "minimum_salary": "100000 CAD base or 200000 CAD OTE",
+    "phone_number": null,
+    "languages": [
+      "English",
+      "French (Limited Working)",
+      "Spanish (Elementary)"
+    ]
+  },
+  "background": [
+    "MBA with institutional finance experience at J.P. Morgan and CIBC",
+    "Senior Financial Analyst at Colliers",
+    "Founder of Voluma - DeFi and infrastructure protocol development",
+    "Built DeFi systems on Ethereum and Solana",
+    "Deep experience in crypto economics, product strategy, institutional BD"
+  ],
+  "resume_template": {
+    "sections": [
+      "Profile Summary",
+      "Core Competencies",
+      "Professional Experience",
+      "Education",
+      "Certifications and Skills",
+      "Languages",
+      "Contact Details"
+    ],
+    "style_rules": {
+      "no_oxford_commas": true,
+      "no_em_dashes": true,
+      "simple_bullets_under_20_words": true,
+      "consistent_spacing_and_margins": true,
+      "approved_fonts": ["Arial", "Calibri", "Times"],
+      "quantified_metrics_per_role": true,
+      "ATS_keyword_injection_target": 15,
+      "profile_headings_all_caps": true,
+      "hidden_white_text_injection": true
+    }
+  },
+  "search_criteria": {
+    "titles": [
+      "Head of Institutional Sales",
+      "Director of Business Development",
+      "Strategy Lead",
+      "Web3 Growth Lead",
+      "Product Manager - Digital Assets",
+      "Quantitative Research Lead",
+      "Crypto Infrastructure Manager",
+      "Investment Director",
+      "Principal - Venture Capital",
+      "Principal - Private Equity",
+      "VP - Fintech Strategy",
+      "Director of Strategic Partnerships",
+      "Institutional Partnerships Manager"
+    ],
+    "companies": [
+      "NDAX",
+      "Fireblocks",
+      "KuCoin",
+      "Wintermute",
+      "BitGo",
+      "Amber Group",
+      "P2P.org",
+      "Figment",
+      "WonderFi",
+      "Talos",
+      "Galaxy Digital",
+      "BCG",
+      "Bain Capital",
+      "OMERS Ventures",
+      "Portage Ventures",
+      "Relay Ventures",
+      "Sequoia Capital",
+      "Andreessen Horowitz",
+      "Lightspeed Venture Partners",
+      "Brookfield",
+      "Onex",
+      "CIBC Capital Markets",
+      "RBC Capital Markets",
+      "BMO Capital Markets",
+      "Scotiabank GBM",
+      "TD Securities",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Canaccord Genuity",
+      "Laurentian Bank",
+      "Desjardins Capital Markets",
+      "National Bank Financial"
+    ],
+    "industries": [
+      "Crypto",
+      "Digital Assets",
+      "Fintech",
+      "Banking",
+      "Private Equity",
+      "Venture Capital",
+      "Asset Management",
+      "Capital Markets",
+      "Web3 Infrastructure",
+      "DeFi Systems",
+      "Enterprise Blockchain Solutions",
+      "Financial Services",
+      "Enterprise AI",
+      "Data Infrastructure"
+    ],
+    "score_rubric": {
+      "experience_match": 10,
+      "industry_relevance": 10,
+      "location_flexibility": 5
+    },
+    "score_threshold": 22,
+    "salary_cutoff_logic": "Only match roles with base salary exceeding 100000 CAD or OTE exceeding 200000 CAD"
+  },
+  "outputs_required": [
+    "Job title, company, and direct application link",
+    "Fit score (out of 25)",
+    "Estimated compensation",
+    "ATS-optimized cover letter with 90-day plan",
+    "LinkedIn direct message",
+    "Value proposition pitch bullets",
+    "Closing pitch summary"
+  ],
+  "workflow": {
+    "job_discovery": "Analyze based on compensation, experience, industry fit",
+    "application_kit": "Generate resume, cover letter, outreach messages",
+    "follow_up_strategy": "Suggest 3-5 day follow-ups and social engagement"
+  },
+  "cover_letter_structure": {
+    "opening_paragraph": "Align background to company mission",
+    "body_paragraphs": [
+      "Highlight ATS keywords",
+      "Quantified impacts",
+      "90-day plan preview"
+    ],
+    "closing_paragraph": "Enthusiastic next steps"
+  },
+  "ats_strategy": {
+    "ensure_pass": true,
+    "always_match_minimums": true,
+    "adapt_resume_titles_and_experience": true,
+    "insert_15_keywords": true,
+    "quantify_impacts": true,
+    "format_for_copy_paste": true,
+    "no_oxford_commas_or_em_dashes": true,
+    "hidden_white_text_injection": true
+  },
+  "outreach_strategy": {
+    "primary_contact": "Hiring manager",
+    "secondary_contact": "HR",
+    "contact_validation": true,
+    "application_hyperlink_validation": true,
+    "talent_mapper_enabled": true,
+    "opponent_intel_enabled": true
+  },
+  "application_tactics": {
+    "dynamic_style_adaptation": true,
+    "tiered_targeting": true,
+    "prospect_list_expansion": true,
+    "salary_benchmarking": true,
+    "ghost_notes_mode": true,
+    "interview_closing_package_enabled": true,
+    "linkedin_content_plan_enabled": true,
+    "competing_companies_lookup": true
+  },
+  "90_day_plans": {
+    "Institutional Sales": "Map client book and engage leads, close first 2 deals in 90 days",
+    "Strategy Lead/Director": "Audit OKRs, propose initiatives, launch pilot programs",
+    "Product Manager - Digital Assets": "Audit backlog, ship MVP update, roadmap alignment"
+  },
+  "optional_industry_targets": [
+    "Enterprise AI",
+    "Data Infrastructure",
+    "Cloud Fintech Solutions"
+  ],
+  "linkedin_activity_plan": "Post one thought leadership piece monthly",
+  "advanced_tactics": {
+    "rejection_autopsy_enabled": true,
+    "tone_detection_enabled": true,
+    "offer_closing_checklist_enabled": true,
+    "role_synonyms_map_enabled": true,
+    "inbound_target_followup_enabled": true,
+    "tier_one_company_tailoring": true,
+    "leadership_signal_detection": true,
+    "quant_skills_amplification": true,
+    "executive_audience_shaping": true,
+    "application_density_control": true
+  },
+  "top_0001_moves": {
+    "outbound_angle_kit_enabled": true,
+    "offer_shaping_playbook_enabled": true,
+    "psychological_framing_in_cl": true,
+    "risk_removal_insertion_enabled": true,
+    "outcome_certainty_language_enabled": true,
+    "asymmetrical_followup_strategy_enabled": true,
+    "quantified_value_hooks_enabled": true,
+    "behavioral_preloading_enabled": true,
+    "tier_one_linkedin_signal_enabled": true,
+    "defensive_application_logic_enabled": true
+  },
+  "job_due_diligence_report": {
+    "enabled": true,
+    "sections": [
+      "Role Summary and Strategic Value",
+      "Company Profile",
+      "Industry Trends and Demand",
+      "Compensation Benchmark",
+      "Notable Clients and Strategic Partners",
+      "Insider Intel Review",
+      "Prestige Rating",
+      "Trajectory Outlook"
+    ],
+    "minimum_sources_required": 5,
+    "insider_sources": [
+      "Reddit",
+      "TeamBlind",
+      "Fishbowl",
+      "Glassdoor",
+      "LinkedIn"
+    ],
+    "validation_links_required": true,
+    "prestige_rating_basis": [
+      "Client List",
+      "Comp Level",
+      "Employee Alumni",
+      "Brand Recognition"
+    ],
+    "compensation_sources": [
+      "CryptoJobsList",
+      "Levels.fyi",
+      "Jefferies Survey",
+      "Columbia PE/VC",
+      "Glassdoor Salaries"
+    ],
+    "output_format": "Moody's issuer report style",
+    "tone": "Professional, outcome-driven"
+  },
+  "ats_interview_one_strategy": {
+    "enabled": true,
+    "keyword_over_replication": true,
+    "keyword_density_target": "1.5x minimum",
+    "exact_title_mirror_rule": true,
+    "top_5_duties_match_required": true,
+    "job_posting_language_mimicry": true,
+    "low_risk_high_credibility_closing_enabled": true,
+    "sample_closing_phrases": [
+      "Proven onboarding",
+      "Immediate ramp-up",
+      "Low-risk profile",
+      "KPI targets exceeded"
+    ],
+    "resume_versioning_per_application": true,
+    "natural_sounding_insertion_required": true,
+    "formatting_must_remain_readable": true
+  },
+  "input_trigger_policy": {
+    "enabled": true,
+    "on_new_job_post": {
+      "automatically_initiate_modules": [
+        "job_due_diligence_report",
+        "ats_interview_one_strategy",
+        "resume_template_application",
+        "cover_letter_structure_application",
+        "first_90_day_plan_insertion",
+        "outreach_strategy_mapping",
+        "top_0001_moves_activation",
+        "advanced_tactics_application",
+        "salary_compensation_validation",
+        "link_validation_for_application"
+      ],
+      "priority_order": [
+        "validate job post source",
+        "run due diligence",
+        "determine fit score",
+        "trigger ATS resume",
+        "generate cover letter",
+        "insert 90-day plan",
+        "build outreach",
+        "create closing pitch",
+        "salary benchmark",
+        "offer shaping"
+      ]
+    },
+    "format_expectations": "Accept pasted text or link",
+    "error_handling": {
+      "if_link_dead": "Ask for updated URL",
+      "if_content_ambiguous": "Ask for clarification"
+    }
+  },
+  "checklist_policy": {
+    "enabled": true,
+    "run_after_each_job_post": true,
+    "tasks_to_confirm": [
+      "Job post validated",
+      "Due diligence report generated",
+      "Fit score calculated",
+      "ATS resume created",
+      "Cover letter created",
+      "90-day plan inserted",
+      "Outreach strategy mapped",
+      "Closing pitch created",
+      "Salary benchmarking completed",
+      "Offer shaping ready"
+    ],
+    "format": "Checklist with ✅ or ❌",
+    "priority": "Do not skip unless user instructed"
+  },
+  "resume_template_application": {
+    "enabled": true,
+    "version_control": true,
+    "style_flexibility": true,
+    "auto_inject_keywords": true,
+    "track_usage_by_role": true
+  },
+  "cover_letter_structure_application": {
+    "enabled": true,
+    "dynamic_opening_based_on_company_tone": true,
+    "body_keywords_sourced_from_jd": true,
+    "closing_links_to_kpi_goals": true
+  },
+  "first_90_day_plan_insertion": {
+    "enabled": true,
+    "tailor_by_role_type": true,
+    "insert_before_final_paragraph": true,
+    "include_kpi_target_sample": true
+  },
+  "outreach_strategy_mapping": {
+    "enabled": true,
+    "find_one_up_manager_first": true,
+    "fallback_to_internal_hr": true,
+    "auto-generate_linkedin_message": true,
+    "include_company_insight_reference": true
+  },
+  "top_0001_moves_activation": {
+    "enabled": true,
+    "custom_pitch_variant_selection": true,
+    "mimic_job_post_language": true,
+    "quantify_tangible_value": true
+  },
+  "advanced_tactics_application": {
+    "enabled": true,
+    "overlay_rejection_pattern_memory": true,
+    "tone_shifting_auto_detect": true,
+    "influence_candidate_credibility_index": true
+  },
+  "salary_compensation_validation": {
+    "enabled": true,
+    "minimum_sources_checked": 3,
+    "auto_convert_to_cad_if_needed": true,
+    "source_list": [
+      "Glassdoor",
+      "Levels.fyi",
+      "CryptoJobsList",
+      "Jefferies Survey",
+      "Columbia PE/VC"
+    ],
+    "fail_flag_if_data_missing": true
+  },
+  "link_validation_for_application": {
+    "enabled": true,
+    "verify_redirect_status_code": true,
+    "confirm_target_page_is_open": true,
+    "retry_3x_on_fail": true
+  },
+  "offer_shaping_strategy": {
+    "enabled": true,
+    "suggest_floor_raise_if_multiple_interviews_active": true,
+    "compare_comp_against_peer_roles": true,
+    "embed_bonus_levers_in_acceptance_response": true
+  },
+  "behavioral_interview_prep_module": {
+    "enabled": true,
+    "preload_star_responses_to_cover_letter_footer": true,
+    "choose_examples_most_relevant_to_job_post": true,
+    "save_recent_stories_to memory": true
+  }
+}
